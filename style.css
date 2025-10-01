@@ -8,16 +8,14 @@
 .navbar {
     background-color: #444;
     width: 100%;
-    height: 10vh;
+    height: 70px;
 }
-
 .ul-navbar {
     display: flex;
     height: 75px;
     justify-content: center;
     align-items: center;
 }
-
 .li-navbar {
     list-style-type:none;
     padding: 10px;
@@ -30,21 +28,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 800px;
 }
-
 .img-conten {
     width: 25%;
     height: 80%;
 }
 
 .footer {
-    height: 10vh;
+    height: 100px;
      display: flex;
     justify-content: center;
     align-items: center;
 }
-
 .hi-footer {
     font-size: 40px;
 }
+
